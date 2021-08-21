@@ -1,2 +1,3 @@
 merhaba
 güncelleme
+remote masterdan ikinici satır
